@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="priority">1</string>
+    <string name="Priority">priority</string>
+    <string name="title">title</string>
+    <string name="save">Save</string>
+
+    <string name="Description">Description</string>
+</resources>
